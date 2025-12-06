@@ -1,0 +1,1629 @@
+{
+  "uncategorized_repositories": [
+    {
+      "name": "flowgger",
+      "url": "https://github.com/awslabs/flowgger",
+      "stars": 874,
+      "description": "A fast data collector in Rust",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "simplebeerservice",
+      "url": "https://github.com/awslabs/simplebeerservice",
+      "stars": 319,
+      "description": "Simple Beer Service (SBS) is a cloud-connected kegerator that streams live sensor data to AWS.",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "aws-sha256-agentcs",
+      "url": "https://github.com/awslabs/aws-sha256-agentcs",
+      "stars": 6,
+      "description": "SHA256 Agent Compatibility Scanner",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "pgbouncer-fast-switchover",
+      "url": "https://github.com/awslabs/pgbouncer-fast-switchover",
+      "stars": 444,
+      "description": "Adds query routing and rewriting extensions to pgbouncer",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "aws-blog-net-exploring-aspnet-core",
+      "url": "https://github.com/awslabs/aws-blog-net-exploring-aspnet-core",
+      "stars": 28,
+      "description": "This repository is for exploring the new ASP.NET Core platform with AWS. On the AWS .NET blog site there are a series of posts talking about the code in this repository. For any questions or ideas about ASP.NET Core on AWS feel free to open a GitHub issue. That will help us in determining future blog content.",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "statelint",
+      "url": "https://github.com/awslabs/statelint",
+      "stars": 352,
+      "description": "A Ruby gem that provides a command-line validator for Amazon States Language JSON files. ",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "j2119",
+      "url": "https://github.com/awslabs/j2119",
+      "stars": 11,
+      "description": "A general-purpose validator generator that uses RFC2119-style assertions as input.",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "deeplearning-benchmark",
+      "url": "https://github.com/awslabs/deeplearning-benchmark",
+      "stars": 118,
+      "description": "",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "states-language",
+      "url": "https://github.com/awslabs/states-language",
+      "stars": 22,
+      "description": "The States Language spec",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "sockeye",
+      "url": "https://github.com/awslabs/sockeye",
+      "stars": 1218,
+      "description": "Sequence-to-sequence framework with a focus on Neural Machine Translation based on PyTorch",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "pidgin-chime",
+      "url": "https://github.com/awslabs/pidgin-chime",
+      "stars": 58,
+      "description": "Pidgin/libpurple plugin for Amazon Chime",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "aws-discovery-utils",
+      "url": "https://github.com/awslabs/aws-discovery-utils",
+      "stars": 27,
+      "description": "Utilities for use with the AWS Discovery Service API",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "open-data-registry-browser",
+      "url": "https://github.com/awslabs/open-data-registry-browser",
+      "stars": 39,
+      "description": "A browser for open-data-registry: https://github.com/awslabs/open-data-registry",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "swage",
+      "url": "https://github.com/awslabs/swage",
+      "stars": 23,
+      "description": "A collection of libraries useful for developing and running services. ",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "cloud-templates-ruby",
+      "url": "https://github.com/awslabs/cloud-templates-ruby",
+      "stars": 13,
+      "description": "MVC-based templating framework for hierarchical data structures",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "node-codemaker",
+      "url": "https://github.com/awslabs/node-codemaker",
+      "stars": 4,
+      "description": "A simple multi-file text writer with code generation tendencies",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "multi-model-server",
+      "url": "https://github.com/awslabs/multi-model-server",
+      "stars": 1024,
+      "description": "Multi Model Server is a tool for serving neural net models for inference",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "voice-powered-analytics",
+      "url": "https://github.com/awslabs/voice-powered-analytics",
+      "stars": 116,
+      "description": "Workshop to build voice enabled integration with data analytics",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "keras-apache-mxnet",
+      "url": "https://github.com/awslabs/keras-apache-mxnet",
+      "stars": 288,
+      "description": "[DEPRECATED] Amazon Deep Learning's Keras with Apache MXNet support",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "aws-servicebroker-documentation",
+      "url": "https://github.com/awslabs/aws-servicebroker-documentation",
+      "stars": 38,
+      "description": "AWS Service Broker documentation",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "mxboard",
+      "url": "https://github.com/awslabs/mxboard",
+      "stars": 324,
+      "description": "Logging MXNet data for visualization in TensorBoard.",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "aws-powershell-extensions",
+      "url": "https://github.com/awslabs/aws-powershell-extensions",
+      "stars": 24,
+      "description": "The extensions for AWS Tools for PowerShell provide workflow enhancements on top of the core AWSPowerShell module.",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "fever",
+      "url": "https://github.com/awslabs/fever",
+      "stars": 119,
+      "description": "FEVER (Fact Extraction and VERification) Annotation Platform and Baselines",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "aws-servicebroker",
+      "url": "https://github.com/awslabs/aws-servicebroker",
+      "stars": 468,
+      "description": "AWS Service Broker",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "one-line-scan",
+      "url": "https://github.com/awslabs/one-line-scan",
+      "stars": 21,
+      "description": "With this tool, projects can be compiled easily for fuzzing with AFL or for static code analysis with tools like CBMC. One-line-scan hooks into the compilation process and wraps calls to the compiler with other compilers. Besides the compilation wrappers, one-line-scan ships with basic analysis jobs, that allow to analyze a project right after compilation with the following tools: AFL, cppcheck, CBMC, Fortify.",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "libfabric-ci-scripts",
+      "url": "https://github.com/awslabs/libfabric-ci-scripts",
+      "stars": 11,
+      "description": "A place for all the various scripts utilized in the libfabric ci project such as pipelines and packer files.",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "aws-well-architected-labs",
+      "url": "https://github.com/awslabs/aws-well-architected-labs",
+      "stars": 2091,
+      "description": "Hands on labs and code to help you learn, measure, and build using architectural best practices.",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "aws-c-compression",
+      "url": "https://github.com/awslabs/aws-c-compression",
+      "stars": 38,
+      "description": "C99 implementation of huffman encoding/decoding",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "aws-c-http",
+      "url": "https://github.com/awslabs/aws-c-http",
+      "stars": 166,
+      "description": "C99 implementation of the HTTP/1.1 and HTTP/2 specifications",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "deequ",
+      "url": "https://github.com/awslabs/deequ",
+      "stars": 3547,
+      "description": "Deequ is a library built on top of Apache Spark for defining \"unit tests for data\", which measure data quality in large datasets.",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "datawig",
+      "url": "https://github.com/awslabs/datawig",
+      "stars": 491,
+      "description": "Imputation of missing values in tables.",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "pkcs11-runners-for-project-wycheproof",
+      "url": "https://github.com/awslabs/pkcs11-runners-for-project-wycheproof",
+      "stars": 4,
+      "description": "This project enables running the Project Wycheproof test vectors on PKCS #11 devices. It should compile and run on any modern Linux system with a PKCS #11 compliant device.",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "aws-crt-java",
+      "url": "https://github.com/awslabs/aws-crt-java",
+      "stars": 71,
+      "description": "Java bindings for the AWS Common Runtime",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "aws-crt-python",
+      "url": "https://github.com/awslabs/aws-crt-python",
+      "stars": 94,
+      "description": "Python bindings for the AWS Common Runtime",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "aws-sigv4-proxy",
+      "url": "https://github.com/awslabs/aws-sigv4-proxy",
+      "stars": 417,
+      "description": "This project signs and proxies HTTP requests with Sigv4",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "fast-pseudoprimes",
+      "url": "https://github.com/awslabs/fast-pseudoprimes",
+      "stars": 5,
+      "description": "Rust program to find pseudoprimes that pass fixed Miller Rabin bases",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "aws-crt-nodejs",
+      "url": "https://github.com/awslabs/aws-crt-nodejs",
+      "stars": 43,
+      "description": "NodeJS bindings for the AWS Common Runtime.",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "aws-crt-cpp",
+      "url": "https://github.com/awslabs/aws-crt-cpp",
+      "stars": 86,
+      "description": "C++ wrapper around the aws-c-* libraries. Provides Cross-Platform Transport Protocols and SSL/TLS implementations for C++.",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "slru-to-buffer-cache",
+      "url": "https://github.com/awslabs/slru-to-buffer-cache",
+      "stars": 1,
+      "description": "This repository serves to provide a specific feature back to PostgreSQL. It is not intended for use or to contribute to.",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "aws-crypto-policy-compliance-checker",
+      "url": "https://github.com/awslabs/aws-crypto-policy-compliance-checker",
+      "stars": 9,
+      "description": "A CheckerFramework plugin to detect the use of weak algorithms with the Java crypto API.",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "data-classification-checker",
+      "url": "https://github.com/awslabs/data-classification-checker",
+      "stars": 9,
+      "description": "Type system to detect accidental logging and inappropriate use of critical data in Java applications.",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "aws-c-cal",
+      "url": "https://github.com/awslabs/aws-c-cal",
+      "stars": 42,
+      "description": "Aws Crypto Abstraction Layer: Cross-Platform, C99 wrapper for cryptography primitives.",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": ".github",
+      "url": "https://github.com/awslabs/.github",
+      "stars": 4,
+      "description": "",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "aws-crt-dotnet",
+      "url": "https://github.com/awslabs/aws-crt-dotnet",
+      "stars": 11,
+      "description": ".NET bindings for the AWS Common Runtime",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "gluonts",
+      "url": "https://github.com/awslabs/gluonts",
+      "stars": 5080,
+      "description": "Probabilistic time series modeling in Python",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "or-rl-benchmarks",
+      "url": "https://github.com/awslabs/or-rl-benchmarks",
+      "stars": 85,
+      "description": "The source code for the paper: 'ORL: Reinforcement Learning Benchmarks for Online Stochastic Optimization Problems'",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "adatune",
+      "url": "https://github.com/awslabs/adatune",
+      "stars": 291,
+      "description": "Gradient based Hyperparameter Tuning library in PyTorch",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "cloud-templates-ruby-graphviz",
+      "url": "https://github.com/awslabs/cloud-templates-ruby-graphviz",
+      "stars": 1,
+      "description": "GraphViz render for cloud-templates-ruby. Generates visual representation for arbitrary model.",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "aws-academy-educator-toolkit",
+      "url": "https://github.com/awslabs/aws-academy-educator-toolkit",
+      "stars": 27,
+      "description": "AWS Academy Extras provides tools and content to AWS Academy Educators such as grading scripts, cloud formation lab templates, or custom student labs for collaboration to other AWS Academy Educators.",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "disco",
+      "url": "https://github.com/awslabs/disco",
+      "stars": 67,
+      "description": "A suite of tools including a framework for creating Java Agents, for aspect-oriented tooling for distributed systems.",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "analyze-binary-tools",
+      "url": "https://github.com/awslabs/analyze-binary-tools",
+      "stars": 8,
+      "description": "Binary analysis tools and frameworks",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "scale-out-computing-on-aws",
+      "url": "https://github.com/awslabs/scale-out-computing-on-aws",
+      "stars": 133,
+      "description": "Scale-Out Computing on AWS is a solution that helps customers deploy and operate a multiuser environment for computationally intensive workflows.",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "tough",
+      "url": "https://github.com/awslabs/tough",
+      "stars": 215,
+      "description": "Rust libraries and tools for using and generating TUF repositories",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "aws-parallelcluster-pipeline-gatk-quick-start",
+      "url": "https://github.com/awslabs/aws-parallelcluster-pipeline-gatk-quick-start",
+      "stars": 15,
+      "description": "",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "unicornflix",
+      "url": "https://github.com/awslabs/unicornflix",
+      "stars": 205,
+      "description": "Learn how to manage, process, host, and authorize access to streaming video content by building UnicornFlix",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "fluent-golang-io-writer",
+      "url": "https://github.com/awslabs/fluent-golang-io-writer",
+      "stars": 13,
+      "description": "A Golang Library that wraps the fluent logger Golang and implements io.Writer. Easy logging to Fluentd/Bit with standard loggers.",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "w-lda",
+      "url": "https://github.com/awslabs/w-lda",
+      "stars": 40,
+      "description": "Source code for paper \"Topic Modeling with Wasserstein Autoencoders\".",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "multi-region-asynchronous-object-replication-solution",
+      "url": "https://github.com/awslabs/multi-region-asynchronous-object-replication-solution",
+      "stars": 8,
+      "description": "",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "aws-crt-builder",
+      "url": "https://github.com/awslabs/aws-crt-builder",
+      "stars": 15,
+      "description": "",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "aws-virtual-gpu-device-plugin",
+      "url": "https://github.com/awslabs/aws-virtual-gpu-device-plugin",
+      "stars": 205,
+      "description": "AWS virtual gpu device plugin provides capability to use smaller virtual gpus for your machine learning inference workloads",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "dgl-ke",
+      "url": "https://github.com/awslabs/dgl-ke",
+      "stars": 1326,
+      "description": "High performance, easy-to-use, and scalable package for learning large-scale knowledge graph embeddings.",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "aws-cloudmap-prometheus-sd",
+      "url": "https://github.com/awslabs/aws-cloudmap-prometheus-sd",
+      "stars": 38,
+      "description": "A custom service discovery adapter for Prometheus that integrates with AWS Cloud Map",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "unsupervised-qa",
+      "url": "https://github.com/awslabs/unsupervised-qa",
+      "stars": 57,
+      "description": "Template-Based Question Generation from Retrieved Sentences for Improved Unsupervised Question Answering",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "aws-cross-account-cicd-git-actions-prereq",
+      "url": "https://github.com/awslabs/aws-cross-account-cicd-git-actions-prereq",
+      "stars": 11,
+      "description": "",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "aws-cross-account-cicd-git-actions",
+      "url": "https://github.com/awslabs/aws-cross-account-cicd-git-actions",
+      "stars": 7,
+      "description": "",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "dgl-lifesci",
+      "url": "https://github.com/awslabs/dgl-lifesci",
+      "stars": 783,
+      "description": "Python package for graph neural networks in chemistry and biology",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "game-analytics-pipeline",
+      "url": "https://github.com/awslabs/game-analytics-pipeline",
+      "stars": 43,
+      "description": "The Game Analytics Pipeline is a customer deployable reference architecture to help game developers ingest, store, and analyze telemetry data from games and services.",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "speech-representations",
+      "url": "https://github.com/awslabs/speech-representations",
+      "stars": 103,
+      "description": "Code for DeCoAR (ICASSP 2020) and BERTphone (Odyssey 2020)",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "amazon-log-agent-benchmark-tool",
+      "url": "https://github.com/awslabs/amazon-log-agent-benchmark-tool",
+      "stars": 19,
+      "description": "Simple log generation and process resource monitor used to benchmark log agents",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "aws-cv-task2vec",
+      "url": "https://github.com/awslabs/aws-cv-task2vec",
+      "stars": 124,
+      "description": "Official code for the paper \"Task2Vec: Task Embedding for Meta-Learning\" (https://arxiv.org/abs/1902.03545, ICCV 2019)",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "bike-kem",
+      "url": "https://github.com/awslabs/bike-kem",
+      "stars": 55,
+      "description": "Additional implementation of BIKE (Bit Flipping Key Encapsulation)",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "aws-crt-swift",
+      "url": "https://github.com/awslabs/aws-crt-swift",
+      "stars": 22,
+      "description": "",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "multilingual-top",
+      "url": "https://github.com/awslabs/multilingual-top",
+      "stars": 8,
+      "description": "Multilingual TOP dataset for semantic parsing in English, Italian and Japanese",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "tc-redirect-tap",
+      "url": "https://github.com/awslabs/tc-redirect-tap",
+      "stars": 72,
+      "description": "",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "aws-build-accumulator",
+      "url": "https://github.com/awslabs/aws-build-accumulator",
+      "stars": 19,
+      "description": "Litani metabuild system",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "aws-crt-ruby",
+      "url": "https://github.com/awslabs/aws-crt-ruby",
+      "stars": 6,
+      "description": "",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "output-scrubber-nodejs",
+      "url": "https://github.com/awslabs/output-scrubber-nodejs",
+      "stars": 2,
+      "description": "Obscure sensitive information in standard output and standard error.",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "homomorphic-implementors-toolkit",
+      "url": "https://github.com/awslabs/homomorphic-implementors-toolkit",
+      "stars": 68,
+      "description": "",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "fhir-works-on-aws-routing",
+      "url": "https://github.com/awslabs/fhir-works-on-aws-routing",
+      "stars": 31,
+      "description": "The routing implementation of the FHIR Works on AWS framework. Finding the correct component to handle the HTTP FHIR request",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "aws-alb-route-directive-adapter-for-istio",
+      "url": "https://github.com/awslabs/aws-alb-route-directive-adapter-for-istio",
+      "stars": 4,
+      "description": "",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "privacy-preserving-xgboost-inference",
+      "url": "https://github.com/awslabs/privacy-preserving-xgboost-inference",
+      "stars": 50,
+      "description": "Privacy-preserving XGBoost Inference",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "spot-tagging-bot-for-digital-assets",
+      "url": "https://github.com/awslabs/spot-tagging-bot-for-digital-assets",
+      "stars": 18,
+      "description": "Spot Tagging Bot for Digital Assets",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "aws-verification-model-for-libcrypto",
+      "url": "https://github.com/awslabs/aws-verification-model-for-libcrypto",
+      "stars": 5,
+      "description": "Partial verification model for openssl.",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "diagram-maker",
+      "url": "https://github.com/awslabs/diagram-maker",
+      "stars": 2419,
+      "description": "A library to display an interactive editor for any graph-like data.",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "aws-nitro-enclaves-cose",
+      "url": "https://github.com/awslabs/aws-nitro-enclaves-cose",
+      "stars": 28,
+      "description": "Implements COSE primitives in safe Rust.",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "diagram-maker-plugin-minimap",
+      "url": "https://github.com/awslabs/diagram-maker-plugin-minimap",
+      "stars": 28,
+      "description": "A minimap plugin package for Diagram Maker.",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "damon-tests",
+      "url": "https://github.com/awslabs/damon-tests",
+      "stars": 7,
+      "description": "Tests package for correctness verifications and performance evaluations of DAMON (https://damonitor.github.io)",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "aws-data-exchange-subscriber-coordinator",
+      "url": "https://github.com/awslabs/aws-data-exchange-subscriber-coordinator",
+      "stars": 6,
+      "description": "AWS Data Exchange Subscriber Coordinator",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "aws-data-exchange-publisher-coordinator",
+      "url": "https://github.com/awslabs/aws-data-exchange-publisher-coordinator",
+      "stars": 8,
+      "description": "AWS Data Exchange Publisher Coordinator",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "aws-crt-php",
+      "url": "https://github.com/awslabs/aws-crt-php",
+      "stars": 407,
+      "description": "",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "xpath-util",
+      "url": "https://github.com/awslabs/xpath-util",
+      "stars": 1,
+      "description": "",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "aws-bootstrap-kit",
+      "url": "https://github.com/awslabs/aws-bootstrap-kit",
+      "stars": 105,
+      "description": "",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "fhir-works-on-aws-persistence-facade",
+      "url": "https://github.com/awslabs/fhir-works-on-aws-persistence-facade",
+      "stars": 7,
+      "description": "A façade implementation of the FHIR Works on AWS framework, enabling users to complete CRUD operations on FHIR resources by posting requests to connected microservices",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "fhir-works-on-aws-authz-smart",
+      "url": "https://github.com/awslabs/fhir-works-on-aws-authz-smart",
+      "stars": 32,
+      "description": "A SMART on FHIR v1.0.0 implementation of the FHIR Works on AWS framework, utilizing OAuth2/OIDC authorization server to authorize requests",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "aws-soter",
+      "url": "https://github.com/awslabs/aws-soter",
+      "stars": 5,
+      "description": "Model Checker for Java Programs",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "python-deequ",
+      "url": "https://github.com/awslabs/python-deequ",
+      "stars": 806,
+      "description": "Python API for Deequ",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "aws-groundstation-eos-pipeline",
+      "url": "https://github.com/awslabs/aws-groundstation-eos-pipeline",
+      "stars": 23,
+      "description": "This guide helps you create an automated Earth Observation pipeline on AWS. ",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "damoos",
+      "url": "https://github.com/awslabs/damoos",
+      "stars": 17,
+      "description": "DAMON-based Optimal Operation Schemes",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "aws-streamer",
+      "url": "https://github.com/awslabs/aws-streamer",
+      "stars": 45,
+      "description": "Video Processing for AWS",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "tag-tamer",
+      "url": "https://github.com/awslabs/tag-tamer",
+      "stars": 4,
+      "description": "WARNING - This package is no longer supported.  Solution to consistently tag AWS resources",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "aws-crt-ffi",
+      "url": "https://github.com/awslabs/aws-crt-ffi",
+      "stars": 8,
+      "description": "Foreign function interface (FFI) for the AWS Common Runtime (CRT) libraries",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "smithy-intellij",
+      "url": "https://github.com/awslabs/smithy-intellij",
+      "stars": 11,
+      "description": "Smithy IntelliJ provides IDE integration for the Smithy IDL.",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "aws-network-drivers",
+      "url": "https://github.com/awslabs/aws-network-drivers",
+      "stars": 5,
+      "description": "This is the AWS SFP I2C driver.",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "aws-sdlc-controltower-extension",
+      "url": "https://github.com/awslabs/aws-sdlc-controltower-extension",
+      "stars": 14,
+      "description": "",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "s2n-bignum",
+      "url": "https://github.com/awslabs/s2n-bignum",
+      "stars": 190,
+      "description": "",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "aws-blueprints",
+      "url": "https://github.com/awslabs/aws-blueprints",
+      "stars": 17,
+      "description": "",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "shuttle",
+      "url": "https://github.com/awslabs/shuttle",
+      "stars": 890,
+      "description": "Shuttle is a library for testing concurrent Rust code",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "aws-cicd-workshop-cpt",
+      "url": "https://github.com/awslabs/aws-cicd-workshop-cpt",
+      "stars": 5,
+      "description": "",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "aws-cppwrapper-lattigo",
+      "url": "https://github.com/awslabs/aws-cppwrapper-lattigo",
+      "stars": 18,
+      "description": "",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "damo",
+      "url": "https://github.com/awslabs/damo",
+      "stars": 163,
+      "description": "DAMON user-space tool",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "yesiscan",
+      "url": "https://github.com/awslabs/yesiscan",
+      "stars": 16,
+      "description": "Automatic license scanning and reports!",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "assisted-log-enabler-for-aws",
+      "url": "https://github.com/awslabs/assisted-log-enabler-for-aws",
+      "stars": 267,
+      "description": "Assisted Log Enabler for AWS  - Find AWS resources that are not logging, and turn them on.",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "aws-customer-churn-pipeline",
+      "url": "https://github.com/awslabs/aws-customer-churn-pipeline",
+      "stars": 40,
+      "description": "An End to End Customer Churn Prediction solution using AWS services.",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "well-architected-lab300-aws-organization-data-terraform-module",
+      "url": "https://github.com/awslabs/well-architected-lab300-aws-organization-data-terraform-module",
+      "stars": 8,
+      "description": "",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "aws-managed-services",
+      "url": "https://github.com/awslabs/aws-managed-services",
+      "stars": 10,
+      "description": "",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "aws-dataset-ingestion-metrics-collection-framework",
+      "url": "https://github.com/awslabs/aws-dataset-ingestion-metrics-collection-framework",
+      "stars": 30,
+      "description": "Framework to enforce long term health of your AWS Data Lake by providing visibility into operational, data quality and business metrics.",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "duvet",
+      "url": "https://github.com/awslabs/duvet",
+      "stars": 96,
+      "description": "A requirements traceability tool",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "synchro-charts",
+      "url": "https://github.com/awslabs/synchro-charts",
+      "stars": 81,
+      "description": "Synchro Charts is a front-end component library that provides a collection of components to visualize time-series data.",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "tag-policy-setup",
+      "url": "https://github.com/awslabs/tag-policy-setup",
+      "stars": 15,
+      "description": "",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "aws-go-multi-module-repository-tools",
+      "url": "https://github.com/awslabs/aws-go-multi-module-repository-tools",
+      "stars": 12,
+      "description": "",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "well-architected-lab200-pricing-model-analysis-terraform-module",
+      "url": "https://github.com/awslabs/well-architected-lab200-pricing-model-analysis-terraform-module",
+      "stars": 9,
+      "description": "",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "aws-central-log-aggregator",
+      "url": "https://github.com/awslabs/aws-central-log-aggregator",
+      "stars": 11,
+      "description": "",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "schema-manager",
+      "url": "https://github.com/awslabs/schema-manager",
+      "stars": 23,
+      "description": "",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "well-architected-lab300-aws-compute-optimiser-collector-terraform-module",
+      "url": "https://github.com/awslabs/well-architected-lab300-aws-compute-optimiser-collector-terraform-module",
+      "stars": 5,
+      "description": "",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "amazon-denseclus",
+      "url": "https://github.com/awslabs/amazon-denseclus",
+      "stars": 101,
+      "description": "Clustering for mixed-type data",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "python-uefivars",
+      "url": "https://github.com/awslabs/python-uefivars",
+      "stars": 25,
+      "description": "Python package and helper tool to analyze, convert and modify UEFI variable stores.",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "rust-smt-ir",
+      "url": "https://github.com/awslabs/rust-smt-ir",
+      "stars": 42,
+      "description": "",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "aws-virtual-application-management",
+      "url": "https://github.com/awslabs/aws-virtual-application-management",
+      "stars": 20,
+      "description": "A solution designed to automate the curation of Amazon AppStream 2.0 Images and allows administrators to create an application repository.",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "recurrent-intensity-model-experiments",
+      "url": "https://github.com/awslabs/recurrent-intensity-model-experiments",
+      "stars": 7,
+      "description": "",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "lorien",
+      "url": "https://github.com/awslabs/lorien",
+      "stars": 42,
+      "description": "",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "kubeflow-manifests",
+      "url": "https://github.com/awslabs/kubeflow-manifests",
+      "stars": 188,
+      "description": "KubeFlow on AWS",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "durepa-hybrid-qa",
+      "url": "https://github.com/awslabs/durepa-hybrid-qa",
+      "stars": 13,
+      "description": "",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "data-compare-tool",
+      "url": "https://github.com/awslabs/data-compare-tool",
+      "stars": 15,
+      "description": "",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "jndi-deobfuscate-python",
+      "url": "https://github.com/awslabs/jndi-deobfuscate-python",
+      "stars": 3,
+      "description": "Python module to deobfuscate 'JNDI' strings, used to exploit systems vulnerable to the recent series of Log4J vulnerabilities.",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "aws-appflow-custom-connector-java",
+      "url": "https://github.com/awslabs/aws-appflow-custom-connector-java",
+      "stars": 19,
+      "description": "",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "aws-appflow-custom-connector-python",
+      "url": "https://github.com/awslabs/aws-appflow-custom-connector-python",
+      "stars": 52,
+      "description": "",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "rust-smt-ir-examples",
+      "url": "https://github.com/awslabs/rust-smt-ir-examples",
+      "stars": 13,
+      "description": "",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "typecart",
+      "url": "https://github.com/awslabs/typecart",
+      "stars": 22,
+      "description": "",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "aws-ddk",
+      "url": "https://github.com/awslabs/aws-ddk",
+      "stars": 271,
+      "description": "An open source development framework to help you build data workflows and modern data architecture on AWS.",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "aws-automated-incident-response-and-forensics",
+      "url": "https://github.com/awslabs/aws-automated-incident-response-and-forensics",
+      "stars": 400,
+      "description": "",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "aws-proton-plugins-for-backstage",
+      "url": "https://github.com/awslabs/aws-proton-plugins-for-backstage",
+      "stars": 48,
+      "description": "",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "aws-virtual-kubelet",
+      "url": "https://github.com/awslabs/aws-virtual-kubelet",
+      "stars": 27,
+      "description": "",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "raf",
+      "url": "https://github.com/awslabs/raf",
+      "stars": 145,
+      "description": "",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "dotnet-nativeaot-labs",
+      "url": "https://github.com/awslabs/dotnet-nativeaot-labs",
+      "stars": 136,
+      "description": "A place to learn about and experiment with .NET NativeAOT on AWS.",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "pgjdbc",
+      "url": "https://github.com/awslabs/pgjdbc",
+      "stars": 0,
+      "description": "Postgresql JDBC Driver",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "collaboration-chambers-on-aws",
+      "url": "https://github.com/awslabs/collaboration-chambers-on-aws",
+      "stars": 2,
+      "description": "",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "aws-codeservices-plugins-for-backstage",
+      "url": "https://github.com/awslabs/aws-codeservices-plugins-for-backstage",
+      "stars": 34,
+      "description": "Backstage plugin for AWS Code Services integration",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "seed-farmer",
+      "url": "https://github.com/awslabs/seed-farmer",
+      "stars": 81,
+      "description": "Seed-Farmer is an orchestration tool that acts as an orchestration tool modeled after GitOps deployments. It has a CommandLine Interface based in Python, leverages modular code deployments defined by declarative manifests, and includes change detection and deployment optimization.",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "ratex",
+      "url": "https://github.com/awslabs/ratex",
+      "stars": 23,
+      "description": "",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "autonomous-driving-data-framework",
+      "url": "https://github.com/awslabs/autonomous-driving-data-framework",
+      "stars": 145,
+      "description": "ADDF is a collection of modules, deployed using the SeedFarmer orchestration tool. ADDF modules enable users to quickly bootstrap environments for the process and analysis of autonomous driving data.",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "aws-cyclone-solution",
+      "url": "https://github.com/awslabs/aws-cyclone-solution",
+      "stars": 28,
+      "description": "",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "aws-last-mile-district-opt",
+      "url": "https://github.com/awslabs/aws-last-mile-district-opt",
+      "stars": 1,
+      "description": "",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "rust-smt-strings",
+      "url": "https://github.com/awslabs/rust-smt-strings",
+      "stars": 9,
+      "description": "",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "crowd-coachable-recommendations",
+      "url": "https://github.com/awslabs/crowd-coachable-recommendations",
+      "stars": 7,
+      "description": "",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "atlearn",
+      "url": "https://github.com/awslabs/atlearn",
+      "stars": 11,
+      "description": "",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "cargo-check-external-types",
+      "url": "https://github.com/awslabs/cargo-check-external-types",
+      "stars": 65,
+      "description": "Static analysis tool for Rust library authors to set and verify which types from other libraries are allowed to be exposed in their public API.",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "aws-code-habits",
+      "url": "https://github.com/awslabs/aws-code-habits",
+      "stars": 85,
+      "description": "A library with Make targets, Ansible playbooks, Jinja templates (and more) designed to boost common software development tasks and enhance governance. ",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "summarization-privacy-policies",
+      "url": "https://github.com/awslabs/summarization-privacy-policies",
+      "stars": 2,
+      "description": "",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "aws-healthomics-tools",
+      "url": "https://github.com/awslabs/aws-healthomics-tools",
+      "stars": 39,
+      "description": "",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "players-behaviors-dataset-generator",
+      "url": "https://github.com/awslabs/players-behaviors-dataset-generator",
+      "stars": 8,
+      "description": "",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "fast-differential-privacy",
+      "url": "https://github.com/awslabs/fast-differential-privacy",
+      "stars": 135,
+      "description": "Fast, memory-efficient, scalable optimization of deep learning with differential privacy",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "palace",
+      "url": "https://github.com/awslabs/palace",
+      "stars": 428,
+      "description": "3D finite element solver for computational electromagnetics",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "boto-formatter",
+      "url": "https://github.com/awslabs/boto-formatter",
+      "stars": 27,
+      "description": "boto3 response formatter",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "dti-protein-language-models",
+      "url": "https://github.com/awslabs/dti-protein-language-models",
+      "stars": 5,
+      "description": "",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "mpartman",
+      "url": "https://github.com/awslabs/mpartman",
+      "stars": 17,
+      "description": "Modern partition manager for PostgreSQL",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "sensitive-data-protection-on-aws",
+      "url": "https://github.com/awslabs/sensitive-data-protection-on-aws",
+      "stars": 122,
+      "description": "The Sensitive Data Protection on AWS solution allows enterprise customers to create data catalogs, discover, protect, and visualize sensitive data across multiple AWS accounts. The solution eliminates the need for manual tagging to track sensitive data such as Personal Identifiable Information (PII) and classified information.",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "idf-modules",
+      "url": "https://github.com/awslabs/idf-modules",
+      "stars": 55,
+      "description": "Industry Data Framework (IDF) IAC modules repository",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "compat-collation-for-glibc",
+      "url": "https://github.com/awslabs/compat-collation-for-glibc",
+      "stars": 6,
+      "description": "",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "resource-lister",
+      "url": "https://github.com/awslabs/resource-lister",
+      "stars": 18,
+      "description": "",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "attribution-gen",
+      "url": "https://github.com/awslabs/attribution-gen",
+      "stars": 6,
+      "description": "Licenses attributions file generator",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "decode-answer-logical-form",
+      "url": "https://github.com/awslabs/decode-answer-logical-form",
+      "stars": 32,
+      "description": "",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "harmonix",
+      "url": "https://github.com/awslabs/harmonix",
+      "stars": 303,
+      "description": "A developer portal to meet your Enterprise needs. Fast, secure, and at-scale. ",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "threat-composer",
+      "url": "https://github.com/awslabs/threat-composer",
+      "stars": 644,
+      "description": "A simple threat modeling tool to help humans to reduce time-to-value when threat modeling",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "synthtable",
+      "url": "https://github.com/awslabs/synthtable",
+      "stars": 8,
+      "description": "",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "snapchange",
+      "url": "https://github.com/awslabs/snapchange",
+      "stars": 461,
+      "description": "Lightweight fuzzing of a memory snapshot using KVM",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "high-level-enhancements-for-aws-in-cpp",
+      "url": "https://github.com/awslabs/high-level-enhancements-for-aws-in-cpp",
+      "stars": 7,
+      "description": "",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "whiskey-jack",
+      "url": "https://github.com/awslabs/whiskey-jack",
+      "stars": 15,
+      "description": "An architecture diagram editor and code generator",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "cis-matching-tasks",
+      "url": "https://github.com/awslabs/cis-matching-tasks",
+      "stars": 8,
+      "description": "A package for constructing confidence intervals for error rates in matching tasks such as 1:1 face and speaker verification. ",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "ar-go-tools",
+      "url": "https://github.com/awslabs/ar-go-tools",
+      "stars": 41,
+      "description": "ar-go-tools (Argot) is a collection of analysis tools for Go",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "tensor-message-passing",
+      "url": "https://github.com/awslabs/tensor-message-passing",
+      "stars": 4,
+      "description": "",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "aws-iatk",
+      "url": "https://github.com/awslabs/aws-iatk",
+      "stars": 101,
+      "description": "",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "aws-sap-automation",
+      "url": "https://github.com/awslabs/aws-sap-automation",
+      "stars": 14,
+      "description": "Collection of scripts, that can be used with AWS Launch Wizard for SAP or standalone to automate SAP on AWS",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "apn-competency-helper",
+      "url": "https://github.com/awslabs/apn-competency-helper",
+      "stars": 21,
+      "description": "APN Designations template folder structure and presentation, including APN Competency Program and APN Service Delivery Program",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "robustqa-acl23",
+      "url": "https://github.com/awslabs/robustqa-acl23",
+      "stars": 20,
+      "description": "",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "unified-text2sql-benchmark",
+      "url": "https://github.com/awslabs/unified-text2sql-benchmark",
+      "stars": 82,
+      "description": "UNITE: A Unified Benchmark for Text-to-SQL Evaluation",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "codetask-cl-pptf",
+      "url": "https://github.com/awslabs/codetask-cl-pptf",
+      "stars": 5,
+      "description": "",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "vqa-generate-then-select",
+      "url": "https://github.com/awslabs/vqa-generate-then-select",
+      "stars": 3,
+      "description": "",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "extending-the-context-length-of-open-source-llms",
+      "url": "https://github.com/awslabs/extending-the-context-length-of-open-source-llms",
+      "stars": 56,
+      "description": "",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "data-solutions-framework-on-aws",
+      "url": "https://github.com/awslabs/data-solutions-framework-on-aws",
+      "stars": 143,
+      "description": "An open-source framework that simplifies implementation of data solutions. ",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "static-checker-flink",
+      "url": "https://github.com/awslabs/static-checker-flink",
+      "stars": 4,
+      "description": "Maven plugin to detect known connector incompatibility and other Apache Flink issues at build time",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "managed-service-for-apache-flink-blueprints",
+      "url": "https://github.com/awslabs/managed-service-for-apache-flink-blueprints",
+      "stars": 21,
+      "description": "",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "simple-code-scanning-pipeline",
+      "url": "https://github.com/awslabs/simple-code-scanning-pipeline",
+      "stars": 19,
+      "description": "",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "hypergraph-tabular-lm",
+      "url": "https://github.com/awslabs/hypergraph-tabular-lm",
+      "stars": 30,
+      "description": "",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "dqdl",
+      "url": "https://github.com/awslabs/dqdl",
+      "stars": 21,
+      "description": "",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "operatorpkg",
+      "url": "https://github.com/awslabs/operatorpkg",
+      "stars": 28,
+      "description": "",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "privacy-adhering-machine-unlearning-nlp",
+      "url": "https://github.com/awslabs/privacy-adhering-machine-unlearning-nlp",
+      "stars": 2,
+      "description": "",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "garnet-framework",
+      "url": "https://github.com/awslabs/garnet-framework",
+      "stars": 39,
+      "description": "The Garnet Framework is an open-source framework that enables you to build living digital twins and context-aware solutions through dynamic knowledge graphs.",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "kubectl-connect",
+      "url": "https://github.com/awslabs/kubectl-connect",
+      "stars": 1,
+      "description": "",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "observability-solution-kit",
+      "url": "https://github.com/awslabs/observability-solution-kit",
+      "stars": 10,
+      "description": "",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "avp-local-agent",
+      "url": "https://github.com/awslabs/avp-local-agent",
+      "stars": 18,
+      "description": "",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "vip-token-centric-compression",
+      "url": "https://github.com/awslabs/vip-token-centric-compression",
+      "stars": 5,
+      "description": "",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "amazon-linux-instance-finder",
+      "url": "https://github.com/awslabs/amazon-linux-instance-finder",
+      "stars": 2,
+      "description": "",
+      "category": "Other",
+      "uncategorized": true
+    },
+    {
+      "name": "backstage-plugins-for-aws",
+      "url": "https://github.com/awslabs/backstage-plugins-for-aws",
+      "stars": 137,
+      "description": "AWS plugins for Backstage",
+      "category": "Other",
+      "uncategorized": true
+    }
+  ],
+  "count": 203
+}
